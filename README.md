@@ -28,5 +28,4 @@ A modern VFX Calculator built with HTML, CSS, and JavaScript featuring smooth di
 
 📷 *Preview:*
 
-<img width="1920" height="857" alt="Screenshot (684)" src="https://github.com/user-attachments/assets/31c78c86-a4d9-4004-8a30-b11ac5491b2f" />
-
+<img width="1920" height="877" alt="Screenshot (809)" src="https://github.com/user-attachments/assets/27f6bfa9-48ee-450e-b174-23537bfb7b2f" />
